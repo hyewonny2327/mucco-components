@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mucco Component Library
 
 Reusable React components for building modern and beautiful web applications.
@@ -67,3 +68,7 @@ Check out the live Storybook for detailed examples of each component:
 ```bash
 npm i mucco-component
 ```
+=======
+# mucco-components
+mucco 디자인시스템 
+>>>>>>> cadea879fb3892ce1b90a88b299f80a9fc81995c
