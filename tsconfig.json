@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "declarationDir": "dist",
+    "emitDeclarationOnly": true,
+    "outDir": "./dist", // 컴파일된 파일의 출력 디렉토리
+    "module": "ESNext", // 사용할 모듈 시스템
+    "target": "ES6", // 변환할 JavaScript 버전
+    "jsx": "react-jsx" // React 사용 시 JSX 변환
+  },
+  "files": [],
+  "references": [{ "path": "./tsconfig.app.json" }, { "path": "./tsconfig.node.json" }]
+}
